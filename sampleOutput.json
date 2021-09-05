@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NBC4 Washington"
+            },
+            "author": "NBC4 Washington",
+            "title": "3 Killed, 3 Hurt in Northwest DC Shooting, Police Say - NBC4 Washington",
+            "description": "A total of six people were shot Saturday in Northwest D.C., leaving three of the victims dead, authorities said. Authorities are asking the public to call 911…",
+            "url": "https://www.nbcwashington.com/news/local/3-killed-3-hurt-in-northwest-dc-shooting-police-say/2792937/",
+            "urlToImage": "https://media.nbcwashington.com/2021/09/suspect-vehicle-nw-dc-shooting.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2021-09-05T04:20:55Z",
+            "content": "A total of six people were shot Saturday in Northwest D.C., leaving three of the victims dead, authorities said. \r\nD.C. Police Chief Robert Contee said officers heard gunshots in the 600 block of Lon… [+802 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Natasha Bertrand, Katie Bo Williams and Zachary Cohen, CNN",
+            "title": "Biden promised ISIS-K will 'pay.' Having no US troops in Afghanistan makes that harder - CNN",
+            "description": "As the Biden administration grapples with the challenge of carrying out counterterrorism missions in Afghanistan without US boots on the ground, CNN has learned new details about last Sunday's drone strike on suspected ISIS-K fighters in Kabul that some offic…",
+            "url": "https://www.cnn.com/2021/09/05/politics/afghanistan-counterterrorism-challenges/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210831154223-02-biden-afghanistan-presser-0831-super-tease.jpg",
+            "publishedAt": "2021-09-05T04:04:00Z",
+            "content": "Washington (CNN)As the Biden administration grapples with the challenge of carrying out counterterrorism missions in Afghanistan without US boots on the ground, CNN has learned new details about last… [+9856 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero",
+            "title": "3 dead, 1 rescued after gunman barricades himself in home near Salt Lake City - NBC News",
+            "description": "Three people were discovered dead, including a suspected gunman, after he allegedly opened fire in a Salt Lake City suburb, authorities said.",
+            "url": "https://www.nbcnews.com/news/us-news/3-dead-1-rescued-after-gunman-barricades-himself-home-near-n1278526",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_01/2705191/nbc-social-default.png",
+            "publishedAt": "2021-09-05T04:01:00Z",
+            "content": "A standoff that reached into its second day in suburban Salt Lake City ended Saturday with authorities entering a home and discovering three people, including the suspected gunman, dead of gunshot wo… [+1232 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Willard Scott, former weatherman on NBC's \"Today\" show, dies at 87 - CBS News",
+            "description": "Scott spent 65 years with NBC and was the \"Today\" show's weather forecaster for three decades.",
+            "url": "https://www.cbsnews.com/news/willard-scott-dies-age-87-weatherman-today-show/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/04/252257be-8caf-418c-97e2-b3f385e1ed2f/thumbnail/1200x630/508eeedbc6b37c78714f1e02752365d8/gettyimages-141125046.jpg",
+            "publishedAt": "2021-09-05T03:45:00Z",
+            "content": "Willard Scott, the beloved weatherman who charmed viewers of NBC's \"Today\" show with his self-deprecating humor and cheerful personality, has died. He was 87.\r\nHis successor on the morning news show,… [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Hurricane Larry and Invest 91 Saturday night update - WWLTV",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Zld4anRYNGVCZTjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-05T03:39:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Georgia Bulldogs vs. Clemson Tigers | Full Game Highlights - ESPN College Football",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RHdvb2RETjl4TkHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-05T03:27:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero",
+            "title": "Seven Louisiana nursing homes ordered closed for evacuating patients to warehouse before Hurricane Ida - NBC News",
+            "description": "Seven Louisiana nursing homes that evacuated patients to a warehouse before Hurricane Ida were ordered closed immediately Saturday.",
+            "url": "https://www.nbcnews.com/news/us-news/seven-louisiana-nursing-homes-ordered-closed-evacuating-patients-warehouse-hurricane-n1278525",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_35/3503518/210903-new-orleans-al-0938.jpg",
+            "publishedAt": "2021-09-05T02:59:00Z",
+            "content": "Seven Louisiana nursing homes on Saturday were ordered to close immediately because their patients were evacuated to a single warehouse ahead of Hurricane Ida, the Louisiana Department of Health said… [+2774 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Bongino lists all the lies, one by one, President Biden told about Afghanistan - Fox News",
+            "description": "Fox News anchor Dan Bongino listed all the lies told by President Biden one by one on his Saturday show “Unfiltered.”",
+            "url": "https://www.foxnews.com/media/bongino-lists-all-lies-president-biden-told-about-afghanistan",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Bongino-Democrats-optimized.jpg",
+            "publishedAt": "2021-09-05T02:48:30Z",
+            "content": "Fox News anchor Dan Bongino listed all the lies told by President Biden about Afghanistan on his Saturday show \"Unfiltered.\" \r\nMILLEY: AFGHAN FORCES NOT DESIGNED APPROPIATELY TO SECURE NATION IN LESS… [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "After Six Months On Mars, NASA's Tiny Helicopter Is Still Flying High - NDTV",
+            "description": "It was only supposed to fly five times. And yet NASA's helicopter on Mars, Ingenuity, has completed 12 flights and it isn't ready to retire.",
+            "url": "https://www.ndtv.com/world-news/after-six-months-on-mars-nasas-tiny-helicopter-is-still-flying-high-2530257",
+            "urlToImage": "https://c.ndtvimg.com/2021-09/4l0occ1o_ingenuity-nasa_625x300_05_September_21.jpg",
+            "publishedAt": "2021-09-05T02:39:08Z",
+            "content": "The tiny helicopter has become the regular travel companion of the rover Perseverance.\r\nWashington, United States: It was only supposed to fly five times. And yet NASA's helicopter on Mars, Ingenuity… [+4351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jenna Laine",
+            "title": "Tom Brady says he contracted COVID-19 shortly after Tampa Bay Buccaneers' Super Bowl parade - ESPN",
+            "description": "Tom Brady says he was diagnosed with COVID-19 right after the Tampa Bay Buccaneers' Super Bowl parade.",
+            "url": "https://www.espn.com/nfl/story/_/id/32149146/tom-brady-says-contracted-covid-19-shortly-tampa-bay-buccaneers-super-bowl-parade",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0905%2Fr904826_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-09-05T02:18:58Z",
+            "content": "TAMPA, Fla. -- Tampa Bay Buccaneers quarterback Tom Brady not only had a scare last year when both of his parents tested positive for COVID-19 -- he himself was diagnosed with it too in February.\r\nIn… [+857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Justin Rohrlich",
+            "title": "Anti-Abortion Whistleblowing Site Gets New Home With Provider Known for Hosting Extremists - The Daily Beast",
+            "description": "The “whistleblowing” site found a new home after getting the boot from GoDaddy, but now it’s been forced to disable the function that allowed it to receive anonymous tips.",
+            "url": "https://www.thedailybeast.com/anti-abortion-whistleblowing-site-gets-new-home-with-provider-known-for-hosting-extremists",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1520,w_2702,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1630792020/Screen_Shot_2021-09-04_at_5.37.16_PM_dyiim4",
+            "publishedAt": "2021-09-05T01:52:32Z",
+            "content": "An online whistleblower portal created to punish anyone providing abortion services in Texas has suffered another defeat in its quest to enforce the states new six-week abortion ban as it was forced … [+6243 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Caroline Vakil",
+            "title": "​​Teen who was on ventilator for 11 days urges people to get vaccinated | TheHill - The Hill",
+            "description": "A 15-year-old teenager from Florida is urging those who are eligible to get the COVID-19 vaccine...",
+            "url": "https://thehill.com/policy/healthcare/570883-teen-who-was-on-ventilator-for-11-days-urges-people-to-get-vaccinated",
+            "urlToImage": "https://thehill.com/sites/default/files/article_images/coronavirus-hospital_073021getty_covid-children.jpg",
+            "publishedAt": "2021-09-05T01:45:55Z",
+            "content": "A 15-year-old teenager from Florida is urging those who are eligible to get the COVID-19 vaccine after she was hospitalized for days with the virus.\r\nIn an interview with CNN,Paulina Velasquez said t… [+2183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Daily News"
+            },
+            "author": "Brandon Sapienza",
+            "title": "Attorney whose wife and son were murdered in June is shot - New York Daily News",
+            "description": "South Carolina attorney Alex Murdagh was shot in Hampton County, South Carolina, nearly three months after his wife and son Paul were murdered inside their home.",
+            "url": "https://www.nydailynews.com/news/national/ny-south-carolina-wife-son-murder-shooting-20210905-idgnwe5asrhrfiivbrwcia4fg4-story.html",
+            "urlToImage": "https://www.nydailynews.com/resizer/P3qCyp0886TYoL2eeecQvburlao=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/VOAOQYJYOZGCFEKCBPCK4533KA.jpg",
+            "publishedAt": "2021-09-05T01:02:00Z",
+            "content": "A prominent attorney whose wife and son were murdered in June was shot on a South Carolina road on Saturday.\r\nAlex Murdaugh was shot in Hampton County, S.C., nearly three months after his wife Maggie… [+921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Us Weekly"
+            },
+            "author": "Eliza Thompson",
+            "title": "Wow! Jessica Chastain and Oscar Isaac Show Chemistry on Red Carpet - msnNOW",
+            "description": "Kourtney Kardashian and Travis Barker can't stop gushing about how much they love each other — read their sweetest quotes",
+            "url": "https://www.usmagazine.com/celebrity-news/pictures/kourtney-kardashian-travis-barkers-quotes-about-each-other/",
+            "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2021/08/Kourtney-Kardashian-and-Travis-Barker-Take-Their-Love-to-Paris.jpg?w=1125&h=630&crop=1&quality=86&strip=all",
+            "publishedAt": "2021-09-05T00:57:46Z",
+            "content": "True love! Kourtney Kardashian and Travis Barker have become known for their PDA-heavy outings since they started dating, but theyre also fans of heartfelt and sometimes handwritten sentiments.\r\nIn F… [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Abbey White",
+            "title": "Angelina Jolie Talks Harvey Weinstein and Fearing for Her Children’s Safety Amid Custody Battle With Brad Pitt - Hollywood Reporter",
+            "description": "Angelina Jolie is addressing allegations of abuse she’s made against Brad Pitt amid their custody battle and is speaking out about his decision to work with the convicted rapist and former movie producer Harvey Weinstein following an encounter in the ’90s she…",
+            "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/angelina-jolie-fears-childrens-safety-custody-battle-brad-pitt-harvey-weinstein-1235008725/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/09/GettyImages-1170129927.jpg?w=1024",
+            "publishedAt": "2021-09-05T00:42:43Z",
+            "content": "Angelina Jolie is addressing allegations of abuse she’s made against Brad Pitt amid their custody battle and is speaking out about his decision to work with the convicted rapist and former movie prod… [+3980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Heather Quinlan",
+            "title": "These Skechers give 'a hug to your feet' — and Amazon's got a slew of them on sale this Labor Day weekend. - Yahoo Lifestyle",
+            "description": "Skechers line of comfy yet stylish footwear is now on sale, with prices as low as $30.",
+            "url": "https://www.yahoo.com/lifestyle/these-skechers-give-a-hug-to-your-feet-and-are-now-on-sale-003002798.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EjnMQifiDn00DaUhPD6mQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODk-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/1090c610-0d79-11ec-8fc7-439ab133750e",
+            "publishedAt": "2021-09-05T00:31:51Z",
+            "content": "We may receive commission from purchases made via links on this page. Pricing and availability are subject to change.\r\nSkechers keep your feet dancing (Photo: Amazon)\r\nLabor Day celebrates the hard w… [+10065 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Ivan Watson and CNN staff",
+            "title": "As China woos the Taliban, Uyghurs in Afghanistan fear for their lives - CNN",
+            "description": "Uyghurs in Afghanistan are caught between a homeland where they are facing increasing repression, and an adopted country where they are considered outsiders.",
+            "url": "https://www.cnn.com/2021/09/04/asia/uyghur-afghanistan-taliban-china-intl-hnk-dst/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210903031633-taliban-parade-0901-super-tease.jpg",
+            "publishedAt": "2021-09-05T00:15:00Z",
+            "content": "(CNN) Tuhan's family crossed the border from China's western Xinjiang region to Afghanistan 45 years ago to escape persecution. \r\nNow, as the Taliban exerts control over the country, she fears she an… [+10660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Montenegro clashes ahead of Orthodox Church leader's inauguration - BBC News",
+            "description": "The protests reflect tensions in the country, which broke away from Serbia in 2006.",
+            "url": "https://www.bbc.com/news/world-europe-58451372",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2575/production/_120398590_d1b29fc5-6c27-497e-b6b9-c11c4d320cf8.jpg",
+            "publishedAt": "2021-09-05T00:11:53Z",
+            "content": "image captionThe protests in Cetinje reflect tensions in Montenegro, which broke away from Serbia in 2006\r\nThousands of demonstrators have blocked roads in southern Montenegro in a protest over the e… [+1714 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "“Tony Leung is so powerful”: Shang-Chi stars on working with legends | CNA Lifestyle - CNA",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9U2dzVXA0NnBSanPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-04T23:36:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Sony to offer free Horizon Forbidden West PS4 to PS5 upgrade after criticism - The Verge",
+            "description": "Sony will now offer a free upgrade for Horizon Forbidden West from PS4 to PS5. It follows widespread criticism of Sony forcing players to buy expensive game bundles.",
+            "url": "https://www.theverge.com/2021/9/4/22657679/sony-horizon-forbidden-west-ps4-ps5-upgrade-free",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1J54O3vMo_WlLjcoL3c4dHadugc=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22822749/horizon_forbidden_west_screenshot_10_disclaimer_en_27may21.jpeg",
+            "publishedAt": "2021-09-04T23:36:27Z",
+            "content": "Sony commits to $10 PS4 to PS5 game upgrades\r\nImage: Sony\r\nSony is now planning to offer a free Horizon Forbidden West upgrade from PS4 to PS5. The U-turn follows widespread criticism after the compa… [+1169 chars]"
+        }
+    ]
+}
