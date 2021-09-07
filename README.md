@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](newspandaiphone.png)
+![alt text](newspanda.mp4)
