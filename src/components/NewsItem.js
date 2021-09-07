@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import newsimg from './newspanda.png'
 
 export class NewsItem extends Component {
 
@@ -9,7 +10,7 @@ export class NewsItem extends Component {
             <div className="my-3">
                 <div style={{ backgroundColor: '#fff3f4' }} className="card">
                     <span className="position-absolute top-0 translate-middle rounded-pill badge" style={{ left: '80%', zIndex: '1', backgroundColor: '#B00000' }}>{name}<span className="visually-hidden">unread messages</span></span>
-                    <img src={imageUrl ? imageUrl : "https://images.news18.com/ibnlive/uploads/2021/09/shutterstock_2033764355-163081415716x9.jpg"} className="card-img-top" alt="..." />
+                    <img src={imageUrl ? imageUrl : newsimg} className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{description}...</p>
